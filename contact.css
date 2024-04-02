@@ -1,0 +1,14 @@
+.menu a {
+font-size: 15px;
+color: rgb(155, 155, 155);
+}
+.text h1 {
+font-style: oblique;
+color: #000000;
+text-align: center; 
+}
+.text a {
+font-size: 30px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+color: #000000;
+}
